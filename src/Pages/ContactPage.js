@@ -52,8 +52,8 @@ function ContactPage() {
             <ContactItem
               title={"Phone"}
               icon={phone}
-              cont1={"+880-01904458371"}
-              cont2={"+880-01571029016"}
+              cont1={"+880-1904458371"}
+              cont2={"+880-1923288125"}
             />
             <ContactItem
               title={"Email"}
